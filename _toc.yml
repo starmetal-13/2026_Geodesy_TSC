@@ -3,5 +3,15 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: notebooks/day2_fault_displacement
+parts:
+- caption: Day 1
+  chapters:
+- caption: Day 2
+  chapters:
+  - file: notebooks/day2_fault_displacement
+- caption: Day 3
+  chapters:
+  - file: notebooks/Day3/Geodesy_TSC/Slip_inversion.ipynb
+  - file: notebooks/Day3/Geodesy_TSC/Layered_model.ipynb
+  - file: notebooks/Day3/Geodesy_TSC/Compliant_wedge_model.ipynb
+  - file: notebooks/Day3/Geodesy_TSC/Viscoelastic_cycle.ipynb
