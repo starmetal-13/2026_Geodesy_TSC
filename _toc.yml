@@ -4,8 +4,4 @@
 format: jb-book
 root: intro
 chapters:
-- file: notebooks/1_first_nb
-- file: notebooks/2_second_nb
-- file: notebooks/3_third_nb
 - file: notebooks/day2_fault_displacement
-- file: conclusion
